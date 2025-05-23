@@ -12,9 +12,17 @@ Regaspi, Marevel
 ## Objectives
 
 ## Original Application Features
-## Security Assessment 
+## Security Assessment Findings:
 
+Vulnerabilities identified in the original
+application
 
+## Security Improvements Implemented: Detailed description of improvements made
+## Penetration Testing Report: Summary of vulnerabilities identified, exploitation steps, and recommendations
+
+## Remediation Plan: Steps taken to address identified vulnerabilities
+## Technology Stack: Updated list of technologies used
+## Setup Instructions: Instructions on how to set up and run the improved application
 
 A simple Streamlit app template for you to modify!
 
