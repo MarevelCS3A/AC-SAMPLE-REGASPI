@@ -1,16 +1,16 @@
 # 🎈 SimpleBankApp
 
-Group Members:
+### Group Members:
 De Lima, Donn Robert
 Belgado, Ruby Joy
 Regaspi, Marevel
 
-# Introduction
+## Introduction
 
-# Objectives
+## Objectives
 
-# Original Application Features
-# Security Assessment 
+## Original Application Features
+## Security Assessment 
 
 
 
